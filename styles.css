@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #eeeeee;
+}
+#headContainer {
+  height: 80px;
+  background-color: black !important;
+}
+#formContainer {
+  width: 100%;
+}
+#parent-container {
+  margin-top: 30px;
+}
+input {
+  width: 70%;
+}
+.main-heading {
+  text-align: center;
+}
+.registration-form {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+.button-cont {
+  text-align: center;
+}
+.validation-message {
+  display: block;
+}
